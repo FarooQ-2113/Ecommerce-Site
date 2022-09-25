@@ -106,10 +106,3 @@ Here's some tips:
 * Feature requests are welcomed! Provide some details on why it would be helpful for you and others, explain how you're using bull-board and if possible even some screenshots if you are willing to mock something!
 
 Check out the [contributing](./CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
-
-# :closed_book: License
-
-Released in 2020.
-This project is under the [MIT license](./LICENSE).
-
-Made with love by [RafaelGoulartB](https://github.com/RafaelGoulartB) 🚀
