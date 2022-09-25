@@ -37,15 +37,7 @@
 
 ---
 
-# :pushpin: Table of Contents
 
-* [Demo Website](#eyes-demo-website)
-* [Technologies](#computer-technologies)
-* [Features](#rocket-features)
-* [How to run](#construction_worker-how-to-run)
-* [Found a bug? Missing a specific feature?](#bug-issues)
-* [Contributing](#tada-contributing)
-* [License](#closed_book-license)
 
 <h2 align="left"> 📥 Layout available at: </h2>
 <p align="center">
@@ -54,18 +46,7 @@
     </a>
 </p>
 
-# :eyes: Demo Website
-👉  demo: https://ecommerce-quantum.herokuapp.com/
 
-# :computer: Technologies
-This project was made using the follow technologies:
-<ul>
-  <li><a href="https://nodejs.org/en/">Node.js</a></li>
-  <li><a href="https://expressjs.com/">Express</a></li>
-  <li><a href="https://github.com/mysqljs/mysql">Mysql</a></li>
-  <li><a href="https://www.npmjs.com/package/express-handlebars">Express Handlebars</a></li>
-  <li><a href="https://eslint.org/">Eslint</a></li>
-</ul>   
 
 # :rocket: Features
 
@@ -93,16 +74,4 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-# :bug: Issues
 
-Feel free to **file a new issue** with a respective title and description on the the [NodeJS Ecommerce](https://github.com/RafaelGoulartB/nodejs-ecommerce/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**!
-
-# :tada: Contributing
-First of all, thank you for being interested in helping out, your time is always appreciated in every way. :100:
-
-Here's some tips:
-
-* Check the [issues page](https://github.com/RafaelGoulartB/nodejs-ecommerce/issues) for already opened issues (or maybe even closed ones) that might already address your question/bug/feature request.
-* Feature requests are welcomed! Provide some details on why it would be helpful for you and others, explain how you're using bull-board and if possible even some screenshots if you are willing to mock something!
-
-Check out the [contributing](./CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
