@@ -23,10 +23,8 @@
 
 <div align="center">
   <sub>The ecommerce project. Built with ❤︎ by
-    <a href="https://github.com/RafaelGoulartB">Rafael Goulart</a> and
-    <a href="https://github.com/RafaelGoulartB/nodejs-ecommerce/graphs/contributors">
-      contributors
-    </a>
+    <a href="[https://github.com/RafaelGoulartB](https://github.com/FarooQ-2113)">Farooq Ahamed</a> 
+   
   </sub>
 </div>
 
