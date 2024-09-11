@@ -3,12 +3,6 @@
 
 
 
-<div align="center">
-  <sub>The ecommerce project. Built with ❤︎ by
-    <a href="[https://github.com/FarooQ-2113](https://github.com/FarooQ-2113)">Farooq Ahamed</a> 
-   
-  </sub>
-</div>
 
 <br />
 <div align="center">
